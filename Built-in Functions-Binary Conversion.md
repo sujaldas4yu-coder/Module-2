@@ -17,7 +17,8 @@ print(bin(a))
 ```
 
 ## Output:
+```
 0b10000
-
+```
 ## Result:
 The python program is run successfully.
